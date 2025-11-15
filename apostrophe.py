@@ -1,6 +1,0 @@
-# message = "One of Python's strengths is its diverse community."
-# print(message)
-
-# 语法错误示例
-# message = 'One of Python's strengths is its diverse community.'  没有正确使用引号
-# print(message)
